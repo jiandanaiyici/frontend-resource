@@ -25,3 +25,36 @@
 ### 图形
 
 - [HTML5+Canvas 核心技术+图形、动画与游戏开发](./图形/HTML5+Canvas核心技术+图形、动画与游戏开发.pdf)
+
+### 正则
+
+- [精通正则表达式中文版](./正则表达式/精通正则表达式中文版.pdf)
+- [学习正则表达式](./正则表达式/学习正则表达式.pdf)
+
+### React
+
+- [react 中文入门教程](./React/react中文入门教程.pdf)
+- [React 全栈](./React/React全栈.pdf)
+- [深入浅出 React 和 Redux](./React/深入浅出React和Redux.pdf)
+
+### HTTP
+
+- [HTTPS 权威指南](./HTTP/HTTPS权威指南.pdf)
+- [HTTP 权威指南](./HTTP/HTTP权威指南.pdf)
+- [图解 HTTP 彩色版](./HTTP/图解HTTP彩色版.pdf)
+
+### 设计模式
+
+- [JavaScript 模式](./设计模式/JavaScript模式.pdf)
+
+### 架构设计
+
+- [前端架构设计中文版](./架构设计/前端架构设计中文版.pdf)
+
+### ES
+
+- [深入理解 ES6 翻译完整版](./ES/深入理解ES6翻译完整版.pdf)
+
+### MongooDB
+
+- [深入学习 MongoDB](./MongoDB/深入学习MongoDB.pdf)
