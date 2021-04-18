@@ -21,6 +21,9 @@
 ### 数据结构和算法
 
 - [数据结构与算法 JavaScript 描述](./数据结构和算法/数据结构与算法JavaScript描述.pdf)
+- [学习 JavaScript 数据结构与算法](./数据结构和算法/学习JavaScript数据结构与算法.pdf)
+- [算法第四版](./数据结构和算法/算法第四版.pdf)
+- [JS 数据结构与算法](./数据结构和算法/JS数据结构与算法.pdf)
 
 ### 图形
 
@@ -31,11 +34,18 @@
 - [精通正则表达式中文版](./正则表达式/精通正则表达式中文版.pdf)
 - [学习正则表达式](./正则表达式/学习正则表达式.pdf)
 
+### JS
+
+- [JavaScript 异步编程](./JS/JavaScript异步编程.pdf)
+- [JavaScript 权威指南](<./JS/JavaScript权威指南(第六版).pdf>)
+
 ### React
 
 - [react 中文入门教程](./React/react中文入门教程.pdf)
 - [React 全栈](./React/React全栈.pdf)
 - [深入浅出 React 和 Redux](./React/深入浅出React和Redux.pdf)
+- [深入 REACT 技术栈](./React/深入REACT技术栈%20.pdf)
+- [React 设计模式与最佳实践](./React/React设计模式与最佳实践.pdf)
 
 ### HTTP
 
@@ -46,6 +56,7 @@
 ### 设计模式
 
 - [JavaScript 模式](./设计模式/JavaScript模式.pdf)
+- [JavaScript 设计模式](./设计模式/JavaScript设计模式.pdf)
 
 ### 架构设计
 
@@ -58,3 +69,11 @@
 ### MongooDB
 
 - [深入学习 MongoDB](./MongoDB/深入学习MongoDB.pdf)
+
+### 构建工具
+
+- [深入浅出 Webpack》](./构建工具/《深入浅出Webpack》.pdf)
+
+### Git
+
+- [精通 Git 第二版](./Git/精通Git%20第二版.pdf)
