@@ -28,20 +28,29 @@
 ### 图形
 
 - [HTML5+Canvas 核心技术+图形、动画与游戏开发](./图形/HTML5+Canvas核心技术+图形、动画与游戏开发.pdf)
+- [精通D3.js：交互式数据可视化高级编程](./图形/精通D3.js：交互式数据可视化高级编程.pdf)
+- [WebGL编程指南](./图形/WebGL编程指南.pdf)
 
 ### 正则
 
 - [精通正则表达式中文版](./正则表达式/精通正则表达式中文版.pdf)
 - [学习正则表达式](./正则表达式/学习正则表达式.pdf)
+- [JavaScript正则表达式迷你书.pdf](./正则表达式/JavaScript正则表达式迷你书.pdf)
 
 ### JS
 
 - [JavaScript 异步编程](./JS/JavaScript异步编程.pdf)
 - [JavaScript 权威指南](<./JS/JavaScript权威指南(第六版).pdf>)
+- [JavaScript高级程序设计（第4版）第四版](./JS/JavaScript高级程序设计（第4版）.pdf)
+- [JAVASCRIPT性能优化：度量、监控与可视化](./JS/JAVASCRIPT性能优化：度量、监控与可视化.pdf)
+- [(高级篇)JavaScript语言精粹](./JS/(高级篇)JavaScript语言精粹.pdf)
+- [深入理解JavaScript](./JS/深入理解JavaScript.pdf)
+- [同构JavaScript应用开发](./JS/同构JavaScript应用开发.pdf)
+- [JavaScript高级程序设计（第4版）](./JS/JavaScript高级程序设计（第4版）.pdf)
 
 ### React
 
-- [react 中文入门教程](./React/react中文入门教程.pdf)
+- [React 中文入门教程](./React/react中文入门教程.pdf)
 - [React 全栈](./React/React全栈.pdf)
 - [深入浅出 React 和 Redux](./React/深入浅出React和Redux.pdf)
 - [深入 REACT 技术栈](./React/深入REACT技术栈%20.pdf)
@@ -65,7 +74,8 @@
 ### ES
 
 - [深入理解 ES6 翻译完整版](./ES/深入理解ES6翻译完整版.pdf)
-
+- [深入理解ES6](./JS/深入理解ES6.pdf)
+  
 ### MongooDB
 
 - [深入学习 MongoDB](./MongoDB/深入学习MongoDB.pdf)
@@ -77,3 +87,8 @@
 ### Git
 
 - [精通 Git 第二版](./Git/精通Git%20第二版.pdf)
+
+### CSS
+
+- [CSS揭秘](./css/CSS揭秘.pdf)
+- [CSS世界](./css/CSS世界.pdf)
